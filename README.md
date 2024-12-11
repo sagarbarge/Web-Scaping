@@ -1,2 +1,2 @@
-# Web-Scaping
-Web Scaping
+# Web-Scraping
+Web Scraping
